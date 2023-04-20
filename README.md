@@ -1,0 +1,2 @@
+# SpeechRecognitionAssignment-TongjiHCI
+这是同济大学2023年春季学期人机交互的第二次作业，内容是使用Python中语音识别的库写一个机器人，并使用pyQT5进行图形化界面设计。
